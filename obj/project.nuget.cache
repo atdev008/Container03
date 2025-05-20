@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWM2xoM2M3M=",
+  "success": true,
+  "projectFilePath": "D:\\Git_Clone\\AZ2003\\AZ2003.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atthasarnl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\atthasarnl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
